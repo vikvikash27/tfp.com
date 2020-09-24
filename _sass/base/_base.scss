@@ -16,13 +16,14 @@ ul,ol {
 ul {
     list-style-type: none;
 }
-.ie-logos {
+.logos {
   display: block;
-  background-color: black;
+  background-color: #1C3340;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  length: 50%;
+  width: 70%;
+  length: 70%;
+  border-radius: 20px;
 }
 .i-header {
   padding: 60px;
@@ -34,4 +35,10 @@ ul {
 
 .i-social{
     border:0;
+    padding-right:400px;
+  }
+
+  .datebox{
+    padding-left: 355px;
+
   }
